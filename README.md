@@ -7,3 +7,5 @@ Collection of data analysis/science projects
 * Analyzed over a million different data points spread out between multiple CSV files.
 * Incorporated Machine learning, specificly, k-means clustering to identify different segments of users.
 * Provided an overall conclusion on how to act on the analysis provided.
+
+![](/images/clusters.jpg)
