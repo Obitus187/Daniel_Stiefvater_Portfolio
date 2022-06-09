@@ -5,7 +5,7 @@ Collection of data analysis/science projects
 * Analyzed FitBit's publicly available data to recommend marketing strategies for Bellabeat products.
 * Broke down the project into Google's 6 key steps to Data analysis, Ask, Prepare, Process, Analyze, Share and Act.
 * Analyzed over a million different data points spread out between multiple CSV files.
-* Incorporated Machine learning, specificly, k-means clustering to identify different segments of users.
+* Incorporated Machine learning, specificly, k-means clustering to identify different segments of users. (see image below)
 * Provided an overall conclusion on how to act on the analysis provided.
 
 ![](/images/cluster.JPG)
