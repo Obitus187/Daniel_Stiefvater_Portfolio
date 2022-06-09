@@ -8,4 +8,4 @@ Collection of data analysis/science projects
 * Incorporated Machine learning, specificly, k-means clustering to identify different segments of users.
 * Provided an overall conclusion on how to act on the analysis provided.
 
-![](/images/clusters.jpg)
+![](/images/cluster.JPG)
