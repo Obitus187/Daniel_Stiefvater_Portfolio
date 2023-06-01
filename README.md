@@ -11,7 +11,7 @@ Collection of data analysis/science projects
 ![](/images/cluster.JPG)
 
 # [PCA Machine learning on EU food consumption](https://github.com/Obitus187/ML_Demos/blob/main/PCA/PCA_European_Food_consumption.ipynb)
-* Dimensionality reduction to see correlation and data sets 
+* Dimensionality reduction to see correlation on the data set using the first 2 Eigenvalues
 * Can see which EU countries have similar diets (Denmark, Norway, Sweden and Finland)
 * Also transposed the data and looked at which foods are consumed togeather (Coffee, oranges, apples, butter)
-![](/images/cluster.JPG)
+![](/images/PCA_food_consumption.JPG)
